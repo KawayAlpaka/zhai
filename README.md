@@ -8,9 +8,9 @@
 qq：`370556565`  随时可以与我们交流。
 
 
-## 帮助
+## 主页
 
-[帮助](http://manga.yangtuos.com/pages/h5/help)
+[主页](http://manga.yangtuos.com)
 
 ## 关于如何创建站点规则
 
